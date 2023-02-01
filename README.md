@@ -1,0 +1,2 @@
+# elmasyapimi
+Elmas Yapımı
